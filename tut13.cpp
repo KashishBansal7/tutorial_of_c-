@@ -24,7 +24,7 @@ int main(){
     
     int*p=marks;//p address store krta h marks array ka first elelment ka
     cout<<"The value of markss[0] is "<<*p<<endl; //dereferencing pointer
-    cout<<"The value of markss[1] is "<<*(p+1)<<endl; //dereferencing pointer
+    cout<<"The value of markss[1] is "<<*(p+1)<<endl; // dereferencing pointer
     cout<<"The value of markss[2] is "<<*(p+2)<<endl; //dereferencing pointer
     cout<<"The value of markss[3] is "<<*(p+3)<<endl; //dereferencing pointer
     cout<<"The value of markss[4] is "<<*(p+4)<<endl; //dereferencing pointer
