@@ -1,6 +1,10 @@
                         // ---> pointers
                         //pointer is a data type/variable which stores the address of another variable
-
+//problem solve -//why -// memory access using pointer is faster than normal variable
+                        //dynamic memory - runtime par memory allocate aur free krne ke liye pointer use krte hai
+                        //funtion me value change krne ke liye 
+                        //array handling
+//Limitation - //-complex syntex ,memory crash , memory leak,security issues      
 #include<iostream>
 using namespace std;
 int main (){

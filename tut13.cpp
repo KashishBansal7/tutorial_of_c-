@@ -3,7 +3,9 @@
                                //Array index starts from 0 to n-1 where n is size of array
                                //Array can be of any data type int, float, char, double, bool etc.
                                //Array can be 1D, 2D, 3D or multi dimensional
-                               
+//why use - array is use to for efficient storage,fast access,and orgnized handling of large amount of similar data                               
+//limitation - array simple aur fast hai ,lakin fixed size ,same data type only ,insertion and deletion difficulty uski main limitation hai.                              
+
 
 #include<iostream>
 using namespace std;

@@ -1,5 +1,8 @@
                                 //function & function prototype
                                 //-->this is a block of code ,ye 1 specific kaam krta hai or usse baar baar use krta hai            
+//why-funtion use krte hai taki code reusable ,readable,maintainable ,organized rahe.
+//problem - ye problem ko chotte parts me tod kar code repetation ,complexity aur maintainance ki problem solve krta hai
+//limitation - funtion code simplify krta hai ,lakin memory use ,execution time ,aur debugging complexcity badha deta hai
 
 #include<iostream>
 using namespace std;
